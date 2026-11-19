@@ -1,5 +1,5 @@
 # Koostoopaevad-hkhk
-Siin Repos jagan kokkuvõtteid koostööpäevade kohta mis koolis toimuvad
+Siin Repos jagan kokkuvõtteid koostööpäevade kohta mis koolis toimuvad. alla kirjutan lühidalt kokkuvõtted ja rohkem infot leiad ülevalt kuhu olen pannud täidetud töölehed ja rohkem infot.
 
 Psühhobuss
 
