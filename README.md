@@ -1,15 +1,15 @@
 # Koostoopaevad-hkhk
 Siin Repos jagan kokkuvõtteid koostööpäevade kohta mis koolis toimuvad
 
-Psühhobuss
+#Psühhobuss
 
 Psühhobussi külastus toimus meie kooli koostöö päeva raames. Kõige rohkem jäi mulle meelde katse, kus hoidsime üksteisel õlgadest kinni ja see tegi mulle haiget. Kohtumisel räägiti õppimisest, ajust ja sellest, mis meie õppimist mõjutab. Õppimist võivad mõjutada näiteks muusika, nutiseadmed ja stress. Minu jaoks on kõige suurem probleem stress, sest seda on tihti ja siis on raske keskenduda. Kodus õppimist segavad mind ka peavalud ja soov sõpradega aega veeta. Kohtumine ei muutnud minu arvamust õppimisest eriti palju. Ma ei plaani praegu uusi õppimisvõtteid proovida, sest ma ei usu, et neist mulle palju kasu oleks. Tulevikus võiks meeles pidada, et tasub jääda rahulikuks ja mitte liiga palju muretseda. Kokkuvõttes oli Psühhobussi külastus teistsugune kogemus ning koostöö päev tundus nagu puhkepäev, kuigi pidi ikka koolis käima
 
-töötukassa loeng
+#töötukassa loeng
 
 Töötukassa loengus rääkis karjäärinõustaja Heidi Liivlaid tööturust, muutuvast töömaailmast ja sellest, mida tööandjad noortelt ootavad. Õppisin, et tehisintellekt võtab üle eelkõige rutiinseid töid, näiteks andmesisestust ja standardraporteid. Töö ei kao päris ära, vaid selle sisu muutub: kassapidajast saab kliendi nõustaja ja raamatupidajast nõustaja ja analüütik. Kõige rohkem töökohti peaks lisanduma infotehnoloogias, tervishoius, hariduses ja sotsiaaltöös ning inimkesksete ametite tähtsus kasvab. Tööandjad väärtustavad üldoskusi, näiteks meeskonnatööd, suhtlemist, õppimisvõimet, loovust ja inglise keelt. Noorele on kõige olulisem suhtumine ning CV-sse saab kirjutada praktika, suvise töö, enesetäiendamise ja hobid, kui töökogemust veel pole. Kuna ma õpin IT eriala, oli hea kuulda, et IT-s tuleb töökohti juurde, kuid pean õppima ka tehisintellektiga koos töötama. Mulle meeldis, et loengus tutvustati kasulikke lehti nagu OSKA, tööjõuvajaduse baromeeter ja Oskuste Kompass, mida ma varem ei tundnud. Minu arvates oli loeng huvitav ja kasulik, sest see andis päris numbreid ja näiteid, mitte ainult üldist juttu. Edaspidi proovin Oskuste Kompassi, et näha, milliseid oskusi mul juba on ja mida peaksin veel õppima. 
 
 
-Vaimse tervise päev
+#Vaimse tervise päev
 
 Kolmapäeval toimus meie koolis koostööpäev, mille teemaks oli vaimne tervis. Päeva jooksul kuulasime erinevaid loenguid ja saime uusi teadmisi. Esinejad rääkisid huvitavatest teemadest ning jagasid kasulikke mõtteid. Mõned teemad olid päris huvitavad, kuid kuus tundi järjest kuulata oli üsna väsitav. Vahepeal oli raske keskenduda ja mõtted läksid mujale. Õnneks sai sõbrannadega ka natuke nalja teha ja aega lõbusamalt veeta. Üldiselt oli päev rahulik ja midagi väga erilist ei juhtunud. Arvan, et vaimse tervise teemal rääkimine on oluline, sest see aitab meil ennast ja teisi paremini mõista. Samas võiksid sellised päevad sisaldada rohkem praktilisi tegevusi ja vähem pikka kuulamist. Kokkuvõttes oli tore päev ning jään huviga ootama järgmist koostööpäeva. 
